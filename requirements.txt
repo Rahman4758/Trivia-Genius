@@ -1,6 +1,11 @@
-fastapi
-uvicorn
-requests
 pandas
 numpy
-google-generativeai
+uvicorn
+fastapi 
+flask  
+gunicorn  
+python-dotenv
+requests 
+pydantic  
+google-generativeai  
+
