@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+.env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and Debug Files
+*.log
+*.out
+*.err
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Dependency Management
+Pipfile
+Pipfile.lock
+poetry.lock
